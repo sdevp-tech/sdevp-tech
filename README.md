@@ -1,16 +1,23 @@
-## Hi there 👋
+مرحباً 👋، أنا sdevp-tech
+مطور برمجيات شغوف ببناء حلول رقمية أنيقة وفعالة
+Typing SVG
 
-<!--
-**sdevp-tech/sdevp-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 عني
+💼 حالياً أعمل على تطوير مشاريع برمجية وتحسين مهاراتي.
+🌱 أتعلم حالياً تقنيات جديدة في عالم الـ Backend والـ Cloud.
+💬 اسألني عن أي شيء يتعلق بالبرمجة وحل المشكلات.
+📫 كيف تواصل معي: اسمك أو بريدك الإلكتروني
+⚡ حقيقة ممتعة: أكره الكود غير المنظم!
+🛠️ المهارات والتقنيات
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ملاحظة: يمكنك تغيير التقنيات المذكورة في الرابط أعلاه من خلال تعديل الأسماء بعد i=.
+
+📊 إحصائيات GitHub
+GitHub StatsGitHub Streak
+
+Activity Graph
+
+🌐 تواصل معي
+twitterlinkedingmail
+
