@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=7C3AED¢er=true&vCenter=true&random=false&width=600&height=50&lines=Hi+I'm+Sami+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Android+%E2%80%A2+Web+%E2%80%A2+Desktop;AI+Integration+Enthusiast" alt="Typing SVG" />
 
@@ -39,7 +39,6 @@
       </p>
       <p align="center">
         <a href="https://samidev-8adf9.firebaseapp.com/" target="_blank"><img src="https://img.shields.io/badge/Live Demo-00C896?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-        <a href="https://github.com/sdevp-tech/sdevp-tech.github.io" target="_blank"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
     <td width="50%">
@@ -57,7 +56,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🛍️ بقالة الواحة (E-Commerce)</h3>
+      <h3 align="center">🛍️ Supermarket E-Commerce</h3>
+      <p align="center">منصة تجارة إلكترونية (Backend) لسوبر ماركت الحارة. مبنية بـ Node.js و Express و SQLite. تتميز بنظام صلاحيات (Admin/Employee/Customer)، مصادقة JWT، ورفع آمن للصور.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/sdevp-tech/supermarket-website" target="_blank"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛒 بقالة الواحة (E-Commerce)</h3>
       <p align="center">منصة تجارة إلكترونية مخصصة لبقالة محلية. تزامن فوري للمنتجات، نظام سلة تلقائي، وإرسال الطلبات مباشرة عبر واتساب إلى المتجر مع تنبيهات تيليجرام.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -66,9 +77,10 @@
       </p>
       <p align="center">
         <a href="https://e-commerce-5ebae.firebaseapp.com" target="_blank"><img src="https://img.shields.io/badge/Live Demo-00C896?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-        <a href="https://github.com/sdevp-tech/supermarket-website" target="_blank"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📡 Local File Transfer (P2P)</h3>
       <p align="center">تطبيق خفيف لمشاركة الملفات مباشرة بين الأجهزة على نفس الشبكة المحلية (LAN) بدون إنترنت. يقوم بتقسيم الملفات تلقائياً وربط سريع عبر رمز QR.</p>
@@ -81,9 +93,7 @@
         <a href="https://github.com/sdevp-tech/File-transfer" target="_blank"><img src="https://img.shields.io/badge/Source Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" colspan="2">
+    <td width="50%">
       <h3 align="center">💬 Real-Time Chat Web Page</h3>
       <p align="center">واجهة دردشة حديثة تعمل في المتصفح بسرعة عالية بدون إعتماديات معقدة. متوافقة مع أي WebSocket backend ومجهزة للنشر الفوري عبر Docker.</p>
       <p align="center">
@@ -126,4 +136,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sdevp-tech&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </div>
-](https://chat.z.ai/)
