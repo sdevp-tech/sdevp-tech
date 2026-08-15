@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=7C3AED¢er=true&vCenter=true&random=false&width=600&height=50&lines=Hi+I'm+Sami+%F0%9F%91%8B;Full-Stack+%26+Mobile+Developer;Android+%E2%80%A2+Web+%E2%80%A2+Desktop;AI+Integration+Enthusiast" alt="Typing SVG" />
 
@@ -126,3 +126,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sdevp-tech&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 </div>
+](https://chat.z.ai/)
